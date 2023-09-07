@@ -9,7 +9,7 @@ author: You
 ## Introduction
 Zoom has become an essential platform for virtual meetings, webinars, and online collaboration. While video is a crucial aspect of these interactions, audio quality plays an equally important role. In this guide, we will explore how to seamlessly join audio on the Zoom app, ensuring that you can communicate clearly and effectively during your Zoom meetings. Whether you're a seasoned Zoom user or new to the platform, this step-by-step guide will help you make the most of your audio experience.
 
-![Zoom app audio](https://techidn.github.io/assets/images/upload/Zoom app audio.jpg)
+![Zoom app audio](https://techidn.github.io/assets/images/upload/Zoom%20app%20audio.jpg)
 
 ## Step-by-Step Guide
 Follow these steps to seamlessly join audio on the Zoom app:
