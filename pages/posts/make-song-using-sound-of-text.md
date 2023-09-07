@@ -9,7 +9,7 @@ author: You
 ## Introduction
 Sound of Text is a versatile tool that allows you to convert text into speech. While it's commonly used for generating voiceovers and spoken content, it can also be a creative tool for making music. In this guide, we'll explore how to use Sound of Text to create music, the various approaches you can take, and the benefits of using this unique method.
 
-![Make song using sound of text](https://techidn.github.io/assets/images/upload/Make song using sound of text.jpg)
+![Make song using sound of text](https://techidn.github.io/assets/images/upload/Make%20song%20using%20sound%20of%20text.jpg)
 
 ## How to Use Sound of Text to Create Music
 Creating music with Sound of Text is a simple yet creative process. Here's how to do it:
