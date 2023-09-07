@@ -9,7 +9,7 @@ author: You
 ## Introduction
 Google Assistant is a versatile and helpful virtual assistant, known for its ability to respond to voice commands with a range of voices. However, there might be situations where you want to turn off the voices, whether it's for privacy reasons, to reduce distractions, or simply for a change. In this guide, we'll explore the different voices available for Google Assistant, provide steps on how to turn them off, and discuss the benefits of doing so.
 
-![Turn off google assistant voices](https://techidn.github.io/assets/images/upload/Turn off google assistant voices.jpg)
+![Turn off google assistant voices](https://techidn.github.io/assets/images/upload/Turn off%20google%20assistant%20voices.jpg)
 
 ## The Different Voices Available for Google Assistant
 Google Assistant offers a variety of voices to choose from, allowing users to customize their virtual assistant experience. These voices can vary in gender, tone, and accent, providing options to suit individual preferences. Users can switch between voices easily through their device settings.
