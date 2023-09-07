@@ -9,7 +9,7 @@ author: You
 ## Introduction
 Text to speech (TTS) technology has evolved to a level where it not only aids in accessibility but also serves as a versatile tool for various applications. Premium TTS apps for Android take this technology to the next level with advanced features and high-quality voice synthesis. In this guide, we will explore the top 5 premium text to speech apps for Android, highlighting their unique features and discussing their pros and cons.
 
-![Best premium text to speech app](https://techidn.github.io/assets/images/upload/Best premium text to speech app.jpg)
+![Best premium text to speech app](https://techidn.github.io/assets/images/upload/Best%20premium%20text%20to%20speech%20app.jpg)
 
 ## The 5 Best Premium Text to Speech Apps for Android
 1. Ivona Text-to-Speech HQ
