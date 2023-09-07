@@ -9,7 +9,7 @@ author: You
 ## Introduction
 Voice cloning technology has made significant strides in recent years, and one of the leading solutions in the field is Elevenlabs. This comprehensive guide will introduce you to professional voice cloning, explain how Elevenlabs works, and provide step-by-step instructions on how to utilize this powerful tool. We'll also delve into the various features and advantages of Elevenlabs.
 
-![Use elevenlabs for professional voice cloning](https://techidn.github.io/assets/images/upload/Use elevenlabs for professional voice cloning.jpg)
+![Use elevenlabs for professional voice cloning](https://techidn.github.io/assets/images/upload/Use%20elevenlabs%20for%20professional%20voice%20cloning.jpg)
 
 ## What is Professional Voice Cloning?
 Professional voice cloning is the process of creating highly realistic, synthetic voices that closely mimic the vocal qualities and nuances of a human speaker. These cloned voices can be used for a variety of applications, including voiceovers, virtual assistants, and more. Elevenlabs is at the forefront of this technology, offering a cutting-edge solution for voice cloning.
