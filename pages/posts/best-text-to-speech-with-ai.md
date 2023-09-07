@@ -9,7 +9,7 @@ author: You
 ## Introduction
 Text-to-speech (TTS) technology has come a long way, thanks to artificial intelligence (AI). It now offers natural and lifelike voices that can transform written text into spoken words with remarkable clarity and realism. In this guide, we'll explore some of the best TTS options powered by AI, the advantages and disadvantages of each, and how to select the right one to meet your specific needs.
 
-![Best text to speech with ai](https://techidn.github.io/assets/images/upload/Best text to speech with ai.jpg)
+![Best text to speech with ai](https://techidn.github.io/assets/images/upload/Best%20text%20to%20speech%20with%20ai.jpg)
 
 ## The Different Text to Speech with AI (TTS) Options Available
 1. Google Text-to-Speech (Google TTS):
