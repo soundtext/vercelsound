@@ -9,7 +9,7 @@ author: You
 ## Introduction
 Voice typing technology has come a long way, offering convenient alternatives to traditional typing. Google Docs, a popular online document editing platform, offers voice typing as a feature that can be incredibly useful for various purposes. In this guide, we will explore how to use different voices in Google Docs to type documents effortlessly, making it accessible and convenient for a wide range of users.
 
-![Type using voices in google docs](https://techidn.github.io/assets/images/upload/Type using voices in google docs.jpg)
+![Type using voices in google docs](https://techidn.github.io/assets/images/upload/Type%20using%20voices%20in%20google%20docs.jpg)
 
 ## The Different Voices That Are Available in Google Docs
 Google Docs provides users with a selection of voices for voice typing. These voices offer a diversity of accents and languages, making it adaptable to different preferences and requirements. Some of the voices available include:
