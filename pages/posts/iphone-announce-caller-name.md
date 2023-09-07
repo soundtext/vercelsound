@@ -9,7 +9,7 @@ author: You
 ## Introduction
 Have you ever wanted to know who's calling without needing to check your iPhone's screen? The iPhone Caller Name Announce feature can do just that. It's a handy feature that can make your life easier, especially when you're on the move or your phone is out of reach. In this guide, we'll explore how to activate the iPhone Caller Name Announce feature and make your incoming calls more convenient.
 
-![iPhone announce caller name](https://techidn.github.io/assets/images/upload/iPhone announce caller name.jpg)
+![iPhone announce caller name](https://techidn.github.io/assets/images/upload/iPhone%20announce%20caller%20name.jpg)
 
 ## The Different Ways to Activate iPhone Caller Name Announce
 There are multiple ways to activate the Caller Name Announce feature on your iPhone. You can enable it through the settings menu, Siri, or even use voice commands while receiving a call.
