@@ -9,7 +9,7 @@ author: You
 ## Introduction
 TikTok, the popular short-video platform, continuously evolves its features to enhance user creativity and engagement. One such feature is text to speech, which enables users to add voiceovers to their videos. In this guide, we'll explore how to use text to speech on TikTok, highlight the different ways to utilize it, and discuss the benefits it brings to your TikTok content.
 
-![Tiktok text to speech features](https://techidn.github.io/assets/images/upload/Tiktok text to speech features.jpg)
+![Tiktok text to speech features](https://techidn.github.io/assets/images/upload/Tiktok%20text%20to%20speech%20features.jpg)
 
 ## How to Use Text to Speech on TikTok
 Using text to speech on TikTok is a straightforward process:
