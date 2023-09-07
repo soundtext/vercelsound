@@ -9,7 +9,7 @@ author: You
 ## Introduction
 WhatsApp, one of the most popular messaging apps in the world, offers a multitude of features to enhance communication. Among these features is the ability to send voice notes, which can be incredibly useful when you want to convey a message with a personal touch or when typing isn't convenient. In this guide, we'll show you how to create voice notes on WhatsApp, explore the various methods available, and discuss the benefits of using voice notes in your chats.
 
-![Send voice notes through whatsapp](https://techidn.github.io/assets/images/upload/Send voice notes through whatsapp.jpg)
+![Send voice notes through whatsapp](https://techidn.github.io/assets/images/upload/Send%20voice%20notes%20through%20whatsapp.jpg)
 
 ## How to Create Voice Notes on WhatsApp
 WhatsApp makes it simple to send voice notes. Here's how you can do it:
